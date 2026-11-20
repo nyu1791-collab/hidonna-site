@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-20 18:16:01 JST",
+  "fetched_at": "2026-11-21 02:52:41 JST",
   "kick": {
-    "is_live": false,
-    "title": "",
-    "viewers": 0,
-    "category": "",
-    "thumbnail": "",
-    "followers": 20741,
+    "is_live": true,
+    "title": "週末、メンズを捕まえるまで終われません",
+    "viewers": 1320,
+    "category": "IRL",
+    "thumbnail": "https://stream.kick.com/thumbnails/livestream/139125922/thumb0/video_thumbnail/thumb0.jpg",
+    "followers": 20742,
     "username": "HIDONNA",
     "avatar": "https://files.kick.com/images/user/59386947/profile_image/conversion/181b109a-f206-408e-b58d-416da2a600b6-fullsize.webp",
     "bio": "プロフィール\n女装配信者\n配信スケジュール\nKICK: 配信開始！主に深夜から朝方にかけて配信\n配信スタイル\n複数のプラットフォームで活動中の女装配信者。KICKでは夜更かし派の視聴者に向けて深夜・早朝の時間帯に配信を展開中。",
@@ -47,7 +47,7 @@
     "title": "",
     "viewers": 0,
     "thumbnail": "",
-    "followers": 57834,
+    "followers": 57832,
     "name": "ヒドンナ@どやさ",
     "avatar": "https://img.whowatch.tv/user_files/1948697/profile_icon/1514520344865.jpeg",
     "bio": "東京都足立区在住。女装家です。",
@@ -89,7 +89,7 @@
     "viewers": 0,
     "thumbnail": "",
     "supporters": "2.1k",
-    "level": 39,
+    "level": 40,
     "name": "HIDONNA",
     "screen_id": "@hid0nna",
     "avatar": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/1998313368910974976/UmQmHcMf_bigger.jpg",
@@ -97,11 +97,20 @@
     "url": "https://twitcasting.tv/hid0nna",
     "movies": [
       {
+        "id": "843176798",
+        "title": "金爆　最終日 / 初金爆　優勝するわよ",
+        "date": "2026-11-20 21:12",
+        "duration": "",
+        "views": 5975,
+        "url": "https://twitcasting.tv/hid0nna/movie/843176798",
+        "thumbnail": "https://imagegw03.twitcasting.tv/image3/image.twitcasting.tv/image159_1/5e/db/3241db5e-1.jpg?__t=1795188977"
+      },
+      {
         "id": "843145216",
         "title": "モイ！iPhoneからキャス配信中 - / 失踪者を探しに静岡へ",
         "date": "2026-11-19 22:43",
         "duration": "1:47:28",
-        "views": 4056,
+        "views": 4062,
         "url": "https://twitcasting.tv/hid0nna/movie/843145216",
         "thumbnail": "https://imagegw03.twitcasting.tv/image3/image.twitcasting.tv/image159_1/00/60/32416000-1.jpg"
       },
@@ -113,15 +122,6 @@
         "views": 2438,
         "url": "https://twitcasting.tv/hid0nna/movie/843141878",
         "thumbnail": "https://imagegw03.twitcasting.tv/image3/image.twitcasting.tv/image158_1/f6/52/324152f6-1.jpg"
-      },
-      {
-        "id": "843110693",
-        "title": "モイ！iPhoneからキャス配信中 - / 失踪者を探しに静岡へ",
-        "date": "2026-11-18 23:18",
-        "duration": "1:20:32",
-        "views": 3514,
-        "url": "https://twitcasting.tv/hid0nna/movie/843110693",
-        "thumbnail": "https://imagegw03.twitcasting.tv/image3/image.twitcasting.tv/image158_1/25/d9/3240d925-1.jpg"
       }
     ],
     "status_ok": true
@@ -136,9 +136,9 @@
         "date": "2026-11-20 00:34",
         "text": "Kick ライブ配信のお知らせ（HIDONNA Live Stream - Watch Live on KICK）",
         "image": "https://pbs.twimg.com/card_img/2121317160681455616/LCQaAm6G?format=webp&name=medium",
-        "likes": 32,
+        "likes": 35,
         "reposts": 3,
-        "views": 2583
+        "views": 3141
       },
       {
         "id": "2123338454012666358",
@@ -146,9 +146,9 @@
         "date": "2026-11-19 17:51",
         "text": "ポケカメンくんとコラボしました🖐️\nメイクもして、さて少し仮眠して定時はツイキャスで",
         "image": "https://pbs.twimg.com/media/HXedEYOacAAnAU1.jpg?name=medium",
-        "likes": 1074,
-        "reposts": 67,
-        "views": 38080
+        "likes": 1122,
+        "reposts": 69,
+        "views": 41023
       },
       {
         "id": "2123079187661803848",
@@ -158,7 +158,7 @@
         "image": "https://pbs.twimg.com/card_img/2121317160681455616/LCQaAm6G?format=webp&name=medium",
         "likes": 27,
         "reposts": 4,
-        "views": 4527
+        "views": 4789
       }
     ],
     "status_ok": true
