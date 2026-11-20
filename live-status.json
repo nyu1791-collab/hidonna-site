@@ -1,0 +1,194 @@
+{
+  "fetched_at": "2026-11-20 10:49:03 JST",
+  "kick": {
+    "is_live": false,
+    "title": "",
+    "viewers": 0,
+    "category": "",
+    "thumbnail": "",
+    "followers": 20740,
+    "username": "HIDONNA",
+    "avatar": "https://files.kick.com/images/user/59386947/profile_image/conversion/181b109a-f206-408e-b58d-416da2a600b6-fullsize.webp",
+    "bio": "プロフィール\n女装配信者\n配信スケジュール\nKICK: 配信開始！主に深夜から朝方にかけて配信\n配信スタイル\n複数のプラットフォームで活動中の女装配信者。KICKでは夜更かし派の視聴者に向けて深夜・早朝の時間帯に配信を展開中。",
+    "url": "https://kick.com/hidonna",
+    "videos": [
+      {
+        "id": "01a1f46d-fbb8-7fcc-b6e2-d67918c8003a",
+        "title": "とあるキッカーズのメンバーと会うので見てて",
+        "date": "2026-11-20",
+        "duration": "5:24:23",
+        "category": "IRL",
+        "url": "https://kick.com/hidonna/videos/01a1f46d-fbb8-7fcc-b6e2-d67918c8003a",
+        "thumbnail": "https://web.kick.com/api/v1/videos/01a1f46d-fbb8-7fcc-b6e2-d67918c8003a/thumbnails/9731500.jpeg?cwt=0oRDoQEmoQRYGnRodW1ibmFpbC1jYXQtcHJvZHVjdGlvbi0xWImlAWhraWNrLnZvZANna2ljay5ndwYaav9ibBkBOKMBoQBsd2ViLmtpY2suY29tBaEAeD4vYXBpL3YxL3ZpZGVvcy8wMWExZjQ2ZC1mYmI4LTdmY2MtYjZlMi1kNjc5MThjODAwM2EvdGh1bWJuYWlscwahAGw5NzMxNTAwLmpwZWcZATmBY0dFVFhAItfkEGsVVFg-HrBnFN0pfMU1GHNeSzCL2SLOluPhC72yIvNOQjD0LPeYSL5gu3il5S7bY8PrV7_dZ-iSNfv6Eg"
+      },
+      {
+        "id": "01a1ef4e-b820-7336-b615-17043f3ea280",
+        "title": "ランジェリーで露出魔さんぽ",
+        "date": "2026-11-19",
+        "duration": "4:33:09",
+        "category": "IRL",
+        "url": "https://kick.com/hidonna/videos/01a1ef4e-b820-7336-b615-17043f3ea280",
+        "thumbnail": "https://web.kick.com/api/v1/videos/01a1ef4e-b820-7336-b615-17043f3ea280/thumbnails/8195500.jpeg?cwt=0oRDoQEmoQRYGnRodW1ibmFpbC1jYXQtcHJvZHVjdGlvbi0xWImlAWhraWNrLnZvZANna2ljay5ndwYaav4GvRkBOKMBoQBsd2ViLmtpY2suY29tBaEAeD4vYXBpL3YxL3ZpZGVvcy8wMWExZWY0ZS1iODIwLTczMzYtYjYxNS0xNzA0M2YzZWEyODAvdGh1bWJuYWlscwahAGw4MTk1NTAwLmpwZWcZATmBY0dFVFhAt31Y5BDY3C_i2tkuZ6f5zY9PlXWFLMiK05YOqJUI772vV8dzI6fTvzgih21erUFfrgsudawMHJdvWtdIsvLMVg"
+      },
+      {
+        "id": "01a1ea14-b0f8-7341-ab64-e8d680193357",
+        "title": "行方不明の配信者と失踪者を探しに行く　静岡へ",
+        "date": "2026-11-18",
+        "duration": "6:44:44",
+        "category": "IRL",
+        "url": "https://kick.com/hidonna/videos/01a1ea14-b0f8-7341-ab64-e8d680193357",
+        "thumbnail": "https://web.kick.com/api/v1/videos/01a1ea14-b0f8-7341-ab64-e8d680193357/thumbnails/12143000.jpeg?cwt=0oRDoQEmoQRYGnRodW1ibmFpbC1jYXQtcHJvZHVjdGlvbi0xWIqlAWhraWNrLnZvZANna2ljay5ndwYaavzPCxkBOKMBoQBsd2ViLmtpY2suY29tBaEAeD4vYXBpL3YxL3ZpZGVvcy8wMWExZWExNC1iMGY4LTczNDEtYWI2NC1lOGQ2ODAxOTMzNTcvdGh1bWJuYWlscwahAG0xMjE0MzAwMC5qcGVnGQE5gWNHRVRYQD4AnYnj1JjqbC4GZy7qbSYTUgtpLA-2AtwZk93flV9sjONjQGKbYF-0UhMsWWMwSt0L7rqbkAnjjn5fY-d7VZU"
+      }
+    ],
+    "status_ok": true
+  },
+  "whowatch": {
+    "is_live": false,
+    "title": "",
+    "viewers": 0,
+    "thumbnail": "",
+    "followers": 57837,
+    "name": "ヒドンナ@どやさ",
+    "avatar": "https://img.whowatch.tv/user_files/1948697/profile_icon/1514520344865.jpeg",
+    "bio": "東京都足立区在住。女装家です。",
+    "url": "https://whowatch.tv/profile/t:hid0nna",
+    "archives": [
+      {
+        "id": "77643976",
+        "title": "さようなら洗濯機",
+        "date": "2026-11-12",
+        "duration": "1:30:50",
+        "views": 4869,
+        "url": "https://whowatch.tv/archives/77643976",
+        "thumbnail": "https://img.whowatch.tv/user_files/1948697/user_live_thumbnail_image/1794398242613.jpeg"
+      },
+      {
+        "id": "77638766",
+        "title": "【23時バビエちゃん】さようなら洗濯機",
+        "date": "2026-11-11",
+        "duration": "3:09:16",
+        "views": 7632,
+        "url": "https://whowatch.tv/archives/77638766",
+        "thumbnail": "https://img.whowatch.tv/user_files/1948697/user_live_thumbnail_image/1794398242613.jpeg"
+      },
+      {
+        "id": "77616318",
+        "title": "ポッキーの日1111本配ります",
+        "date": "2026-11-11",
+        "duration": "1:09:49",
+        "views": 3843,
+        "url": "https://whowatch.tv/archives/77616318",
+        "thumbnail": "https://img.whowatch.tv/user_files/1948697/user_live_thumbnail_image/1794312069417.jpeg"
+      }
+    ],
+    "status_ok": true
+  },
+  "twitcasting": {
+    "is_live": false,
+    "title": "",
+    "viewers": 0,
+    "thumbnail": "",
+    "supporters": "2.1k",
+    "level": 39,
+    "name": "HIDONNA",
+    "screen_id": "@hid0nna",
+    "avatar": "https://imagegw02.twitcasting.tv/image3s/pbs.twimg.com/profile_images/1998313368910974976/UmQmHcMf_bigger.jpg",
+    "bio": "東京都足立区在住。女装家。",
+    "url": "https://twitcasting.tv/hid0nna",
+    "movies": [
+      {
+        "id": "843145216",
+        "title": "モイ！iPhoneからキャス配信中 - / 失踪者を探しに静岡へ",
+        "date": "2026-11-19 22:43",
+        "duration": "1:47:28",
+        "views": 4047,
+        "url": "https://twitcasting.tv/hid0nna/movie/843145216",
+        "thumbnail": "https://imagegw03.twitcasting.tv/image3/image.twitcasting.tv/image159_1/00/60/32416000-1.jpg"
+      },
+      {
+        "id": "843141878",
+        "title": "モイ！iPhoneからキャス配信中 - / 失踪者を探しに静岡へ",
+        "date": "2026-11-19 21:41",
+        "duration": "",
+        "views": 2438,
+        "url": "https://twitcasting.tv/hid0nna/movie/843141878",
+        "thumbnail": "https://imagegw03.twitcasting.tv/image3/image.twitcasting.tv/image158_1/f6/52/324152f6-1.jpg"
+      },
+      {
+        "id": "843110693",
+        "title": "モイ！iPhoneからキャス配信中 - / 失踪者を探しに静岡へ",
+        "date": "2026-11-18 23:18",
+        "duration": "1:20:32",
+        "views": 3510,
+        "url": "https://twitcasting.tv/hid0nna/movie/843110693",
+        "thumbnail": "https://imagegw03.twitcasting.tv/image3/image.twitcasting.tv/image158_1/25/d9/3240d925-1.jpg"
+      }
+    ],
+    "status_ok": true
+  },
+  "x": {
+    "handle": "@hid0nna",
+    "url": "https://x.com/hid0nna",
+    "posts": [
+      {
+        "id": "2123439688577094088",
+        "url": "https://x.com/hid0nna/status/2123439688577094088",
+        "date": "2026-11-20 00:34",
+        "text": "Kick ライブ配信のお知らせ（HIDONNA Live Stream - Watch Live on KICK）",
+        "image": "https://pbs.twimg.com/card_img/2121317160681455616/LCQaAm6G?format=webp&name=medium",
+        "likes": 26,
+        "reposts": 2,
+        "views": 2109
+      },
+      {
+        "id": "2123338454012666358",
+        "url": "https://x.com/hid0nna/status/2123338454012666358",
+        "date": "2026-11-19 17:51",
+        "text": "ポケカメンくんとコラボしました🖐️\nメイクもして、さて少し仮眠して定時はツイキャスで",
+        "image": "https://pbs.twimg.com/media/HXedEYOacAAnAU1.jpg?name=medium",
+        "likes": 983,
+        "reposts": 59,
+        "views": 33584
+      },
+      {
+        "id": "2123079187661803848",
+        "url": "https://x.com/hid0nna/status/2123079187661803848",
+        "date": "2026-11-19 00:41",
+        "text": "Kick ライブ配信のお知らせ（HIDONNA Live Stream - Watch Live on KICK）",
+        "image": "https://pbs.twimg.com/card_img/2121317160681455616/LCQaAm6G?format=webp&name=medium",
+        "likes": 26,
+        "reposts": 4,
+        "views": 4355
+      }
+    ],
+    "status_ok": true
+  },
+  "youtube": {
+    "channel_name": "ヒドンナちゃんねる",
+    "channel_url": "https://www.youtube.com/channel/UCzc8gfCm5pMSkyj9bqHKieQ",
+    "videos": [
+      {
+        "id": "I7eLLRDpNFc",
+        "title": "ヒドンナお一人サスペンス劇場　エンドロールver.",
+        "published": "2026-07-09",
+        "url": "https://www.youtube.com/watch?v=I7eLLRDpNFc",
+        "thumbnail": "https://i.ytimg.com/vi/I7eLLRDpNFc/hqdefault.jpg"
+      },
+      {
+        "id": "7QR5TZdWfRQ",
+        "title": "エグプリフェス2026",
+        "published": "2026-06-21",
+        "url": "https://www.youtube.com/watch?v=7QR5TZdWfRQ",
+        "thumbnail": "https://i.ytimg.com/vi/7QR5TZdWfRQ/hqdefault.jpg"
+      },
+      {
+        "id": "L5T0R9id454",
+        "title": "2016→2026 ヒドンナ配信10周年記念｜10年間の感謝を込めて",
+        "published": "2026-04-23",
+        "url": "https://www.youtube.com/watch?v=L5T0R9id454",
+        "thumbnail": "https://i.ytimg.com/vi/L5T0R9id454/hqdefault.jpg"
+      }
+    ],
+    "status_ok": true
+  }
+}
