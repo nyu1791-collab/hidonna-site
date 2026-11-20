@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-20 10:49:54 JST",
+  "fetched_at": "2026-11-20 18:16:01 JST",
   "kick": {
     "is_live": false,
     "title": "",
     "viewers": 0,
     "category": "",
     "thumbnail": "",
-    "followers": 20740,
+    "followers": 20741,
     "username": "HIDONNA",
     "avatar": "https://files.kick.com/images/user/59386947/profile_image/conversion/181b109a-f206-408e-b58d-416da2a600b6-fullsize.webp",
     "bio": "プロフィール\n女装配信者\n配信スケジュール\nKICK: 配信開始！主に深夜から朝方にかけて配信\n配信スタイル\n複数のプラットフォームで活動中の女装配信者。KICKでは夜更かし派の視聴者に向けて深夜・早朝の時間帯に配信を展開中。",
@@ -47,7 +47,7 @@
     "title": "",
     "viewers": 0,
     "thumbnail": "",
-    "followers": 57837,
+    "followers": 57834,
     "name": "ヒドンナ@どやさ",
     "avatar": "https://img.whowatch.tv/user_files/1948697/profile_icon/1514520344865.jpeg",
     "bio": "東京都足立区在住。女装家です。",
@@ -101,7 +101,7 @@
         "title": "モイ！iPhoneからキャス配信中 - / 失踪者を探しに静岡へ",
         "date": "2026-11-19 22:43",
         "duration": "1:47:28",
-        "views": 4047,
+        "views": 4056,
         "url": "https://twitcasting.tv/hid0nna/movie/843145216",
         "thumbnail": "https://imagegw03.twitcasting.tv/image3/image.twitcasting.tv/image159_1/00/60/32416000-1.jpg"
       },
@@ -119,7 +119,7 @@
         "title": "モイ！iPhoneからキャス配信中 - / 失踪者を探しに静岡へ",
         "date": "2026-11-18 23:18",
         "duration": "1:20:32",
-        "views": 3510,
+        "views": 3514,
         "url": "https://twitcasting.tv/hid0nna/movie/843110693",
         "thumbnail": "https://imagegw03.twitcasting.tv/image3/image.twitcasting.tv/image158_1/25/d9/3240d925-1.jpg"
       }
@@ -136,9 +136,9 @@
         "date": "2026-11-20 00:34",
         "text": "Kick ライブ配信のお知らせ（HIDONNA Live Stream - Watch Live on KICK）",
         "image": "https://pbs.twimg.com/card_img/2121317160681455616/LCQaAm6G?format=webp&name=medium",
-        "likes": 26,
-        "reposts": 2,
-        "views": 2109
+        "likes": 32,
+        "reposts": 3,
+        "views": 2583
       },
       {
         "id": "2123338454012666358",
@@ -146,9 +146,9 @@
         "date": "2026-11-19 17:51",
         "text": "ポケカメンくんとコラボしました🖐️\nメイクもして、さて少し仮眠して定時はツイキャスで",
         "image": "https://pbs.twimg.com/media/HXedEYOacAAnAU1.jpg?name=medium",
-        "likes": 983,
-        "reposts": 59,
-        "views": 33591
+        "likes": 1074,
+        "reposts": 67,
+        "views": 38080
       },
       {
         "id": "2123079187661803848",
@@ -156,9 +156,9 @@
         "date": "2026-11-19 00:41",
         "text": "Kick ライブ配信のお知らせ（HIDONNA Live Stream - Watch Live on KICK）",
         "image": "https://pbs.twimg.com/card_img/2121317160681455616/LCQaAm6G?format=webp&name=medium",
-        "likes": 26,
+        "likes": 27,
         "reposts": 4,
-        "views": 4355
+        "views": 4527
       }
     ],
     "status_ok": true
