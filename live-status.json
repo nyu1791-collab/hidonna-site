@@ -1,17 +1,26 @@
 {
-  "fetched_at": "2026-11-22 04:46:57 JST",
+  "fetched_at": "2026-11-22 08:57:50 JST",
   "kick": {
-    "is_live": true,
-    "title": "ミステリーツアーに行く",
-    "viewers": 5047,
-    "category": "IRL",
-    "thumbnail": "https://stream.kick.com/thumbnails/livestream/139347715/thumb0/video_thumbnail/thumb0.jpg",
-    "followers": 20885,
+    "is_live": false,
+    "title": "",
+    "viewers": 0,
+    "category": "",
+    "thumbnail": "",
+    "followers": 20892,
     "username": "HIDONNA",
     "avatar": "https://files.kick.com/images/user/59386947/profile_image/conversion/181b109a-f206-408e-b58d-416da2a600b6-fullsize.webp",
     "bio": "プロフィール\n女装配信者\n配信スケジュール\nKICK: 配信開始！主に深夜から朝方にかけて配信\n配信スタイル\n複数のプラットフォームで活動中の女装配信者。KICKでは夜更かし派の視聴者に向けて深夜・早朝の時間帯に配信を展開中。",
     "url": "https://kick.com/hidonna",
     "videos": [
+      {
+        "id": "01a1fe3d-dac8-7217-adfd-a34926669f71",
+        "title": "ミステリーツアーに行く",
+        "date": "2026-11-21",
+        "duration": "6:57:44",
+        "category": "IRL",
+        "url": "https://kick.com/hidonna/videos/01a1fe3d-dac8-7217-adfd-a34926669f71",
+        "thumbnail": "https://web.kick.com/api/v1/videos/01a1fe3d-dac8-7217-adfd-a34926669f71/thumbnails/12532000.jpeg?cwt=0oRDoQEmoQRYGnRodW1ibmFpbC1jYXQtcHJvZHVjdGlvbi0xWIqlAWhraWNrLnZvZANna2ljay5ndwYaawH7WBkBOKMBoQBsd2ViLmtpY2suY29tBaEAeD4vYXBpL3YxL3ZpZGVvcy8wMWExZmUzZC1kYWM4LTcyMTctYWRmZC1hMzQ5MjY2NjlmNzEvdGh1bWJuYWlscwahAG0xMjUzMjAwMC5qcGVnGQE5gWNHRVRYQP-RlRDKPFMz8A6F4KkSmM_psLPxTeglikM99w1t5q-AJNXg2KSrvCfcgvVzNUm3ZH83rA4PcXuAKLJD7wkfV3c"
+      },
       {
         "id": "01a1f998-8608-75ff-9f8d-6acff6d4916c",
         "title": "週末、メンズを捕まえるまで終われません",
@@ -29,15 +38,6 @@
         "category": "IRL",
         "url": "https://kick.com/hidonna/videos/01a1f46d-fbb8-7fcc-b6e2-d67918c8003a",
         "thumbnail": "https://web.kick.com/api/v1/videos/01a1f46d-fbb8-7fcc-b6e2-d67918c8003a/thumbnails/9731500.jpeg?cwt=0oRDoQEmoQRYGnRodW1ibmFpbC1jYXQtcHJvZHVjdGlvbi0xWImlAWhraWNrLnZvZANna2ljay5ndwYaav9ibBkBOKMBoQBsd2ViLmtpY2suY29tBaEAeD4vYXBpL3YxL3ZpZGVvcy8wMWExZjQ2ZC1mYmI4LTdmY2MtYjZlMi1kNjc5MThjODAwM2EvdGh1bWJuYWlscwahAGw5NzMxNTAwLmpwZWcZATmBY0dFVFhAItfkEGsVVFg-HrBnFN0pfMU1GHNeSzCL2SLOluPhC72yIvNOQjD0LPeYSL5gu3il5S7bY8PrV7_dZ-iSNfv6Eg"
-      },
-      {
-        "id": "01a1ef4e-b820-7336-b615-17043f3ea280",
-        "title": "ランジェリーで露出魔さんぽ",
-        "date": "2026-11-19",
-        "duration": "4:33:09",
-        "category": "IRL",
-        "url": "https://kick.com/hidonna/videos/01a1ef4e-b820-7336-b615-17043f3ea280",
-        "thumbnail": "https://web.kick.com/api/v1/videos/01a1ef4e-b820-7336-b615-17043f3ea280/thumbnails/8195500.jpeg?cwt=0oRDoQEmoQRYGnRodW1ibmFpbC1jYXQtcHJvZHVjdGlvbi0xWImlAWhraWNrLnZvZANna2ljay5ndwYaav4GvRkBOKMBoQBsd2ViLmtpY2suY29tBaEAeD4vYXBpL3YxL3ZpZGVvcy8wMWExZWY0ZS1iODIwLTczMzYtYjYxNS0xNzA0M2YzZWEyODAvdGh1bWJuYWlscwahAGw4MTk1NTAwLmpwZWcZATmBY0dFVFhAt31Y5BDY3C_i2tkuZ6f5zY9PlXWFLMiK05YOqJUI772vV8dzI6fTvzgih21erUFfrgsudawMHJdvWtdIsvLMVg"
       }
     ],
     "status_ok": true
@@ -138,7 +138,7 @@
         "image": "https://pbs.twimg.com/card_img/2121317160681455616/LCQaAm6G?format=webp&name=medium",
         "likes": 37,
         "reposts": 4,
-        "views": 3680
+        "views": 3696
       },
       {
         "id": "2123338454012666358",
@@ -148,7 +148,7 @@
         "image": "https://pbs.twimg.com/media/HXedEYOacAAnAU1.jpg?name=medium",
         "likes": 1157,
         "reposts": 69,
-        "views": 42770
+        "views": 42803
       },
       {
         "id": "2123079187661803848",
@@ -158,7 +158,7 @@
         "image": "https://pbs.twimg.com/card_img/2121317160681455616/LCQaAm6G?format=webp&name=medium",
         "likes": 27,
         "reposts": 4,
-        "views": 4997
+        "views": 5003
       }
     ],
     "status_ok": true
