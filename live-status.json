@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-22 08:57:50 JST",
+  "fetched_at": "2026-11-22 14:39:59 JST",
   "kick": {
     "is_live": false,
     "title": "",
     "viewers": 0,
     "category": "",
     "thumbnail": "",
-    "followers": 20892,
+    "followers": 20894,
     "username": "HIDONNA",
     "avatar": "https://files.kick.com/images/user/59386947/profile_image/conversion/181b109a-f206-408e-b58d-416da2a600b6-fullsize.webp",
     "bio": "プロフィール\n女装配信者\n配信スケジュール\nKICK: 配信開始！主に深夜から朝方にかけて配信\n配信スタイル\n複数のプラットフォームで活動中の女装配信者。KICKでは夜更かし派の視聴者に向けて深夜・早朝の時間帯に配信を展開中。",
@@ -47,7 +47,7 @@
     "title": "",
     "viewers": 0,
     "thumbnail": "",
-    "followers": 57828,
+    "followers": 57827,
     "name": "ヒドンナ@どやさ",
     "avatar": "https://img.whowatch.tv/user_files/1948697/profile_icon/1514520344865.jpeg",
     "bio": "東京都足立区在住。女装家です。",
@@ -119,7 +119,7 @@
         "title": "モイ！iPhoneからキャス配信中 - / 失踪者を探しに静岡へ",
         "date": "2026-11-19 22:43",
         "duration": "1:47:28",
-        "views": 4069,
+        "views": 4070,
         "url": "https://twitcasting.tv/hid0nna/movie/843145216",
         "thumbnail": "https://imagegw03.twitcasting.tv/image3/image.twitcasting.tv/image159_1/00/60/32416000-1.jpg"
       }
@@ -138,7 +138,7 @@
         "image": "https://pbs.twimg.com/card_img/2121317160681455616/LCQaAm6G?format=webp&name=medium",
         "likes": 37,
         "reposts": 4,
-        "views": 3696
+        "views": 3737
       },
       {
         "id": "2123338454012666358",
@@ -146,9 +146,9 @@
         "date": "2026-11-19 17:51",
         "text": "ポケカメンくんとコラボしました🖐️\nメイクもして、さて少し仮眠して定時はツイキャスで",
         "image": "https://pbs.twimg.com/media/HXedEYOacAAnAU1.jpg?name=medium",
-        "likes": 1157,
+        "likes": 1158,
         "reposts": 69,
-        "views": 42803
+        "views": 42877
       },
       {
         "id": "2123079187661803848",
@@ -158,7 +158,7 @@
         "image": "https://pbs.twimg.com/card_img/2121317160681455616/LCQaAm6G?format=webp&name=medium",
         "likes": 27,
         "reposts": 4,
-        "views": 5003
+        "views": 5022
       }
     ],
     "status_ok": true
