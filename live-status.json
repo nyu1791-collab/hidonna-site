@@ -1,17 +1,26 @@
 {
-  "fetched_at": "2026-11-24 05:51:40 JST",
+  "fetched_at": "2026-11-24 14:02:12 JST",
   "kick": {
-    "is_live": true,
-    "title": "高輪のゴミ屋敷と焼肉を食べに行く",
-    "viewers": 1884,
-    "category": "IRL",
-    "thumbnail": "https://stream.kick.com/thumbnails/livestream/139816706/thumb0/video_thumbnail/thumb0.jpg",
-    "followers": 20909,
+    "is_live": false,
+    "title": "",
+    "viewers": 0,
+    "category": "",
+    "thumbnail": "",
+    "followers": 20913,
     "username": "HIDONNA",
     "avatar": "https://files.kick.com/images/user/59386947/profile_image/conversion/181b109a-f206-408e-b58d-416da2a600b6-fullsize.webp",
     "bio": "プロフィール\n女装配信者\n配信スケジュール\nKICK: 配信開始！主に深夜から朝方にかけて配信\n配信スタイル\n複数のプラットフォームで活動中の女装配信者。KICKでは夜更かし派の視聴者に向けて深夜・早朝の時間帯に配信を展開中。",
     "url": "https://kick.com/hidonna",
     "videos": [
+      {
+        "id": "01a2094d-0bf0-713c-b6a4-2e73b5a5b7f1",
+        "title": "高輪のゴミ屋敷と焼肉を食べに行く",
+        "date": "2026-11-24",
+        "duration": "4:35:36",
+        "category": "IRL",
+        "url": "https://kick.com/hidonna/videos/01a2094d-0bf0-713c-b6a4-2e73b5a5b7f1",
+        "thumbnail": "https://web.kick.com/api/v1/videos/01a2094d-0bf0-713c-b6a4-2e73b5a5b7f1/thumbnails/8268000.jpeg?cwt=0oRDoQEmoQRYGnRodW1ibmFpbC1jYXQtcHJvZHVjdGlvbi0xWImlAWhraWNrLnZvZANna2ljay5ndwYaawSu0BkBOKMBoQBsd2ViLmtpY2suY29tBaEAeD4vYXBpL3YxL3ZpZGVvcy8wMWEyMDk0ZC0wYmYwLTcxM2MtYjZhNC0yZTczYjVhNWI3ZjEvdGh1bWJuYWlscwahAGw4MjY4MDAwLmpwZWcZATmBY0dFVFhAw3-diOqUZN7yYMD3GLTS-jxaUbWQ3YdTQfOWAApb2c9on84H4eFt-hK_JYGbdBaKV-ZXQUHVmXsImVClmnf-Hw"
+      },
       {
         "id": "01a1fe3d-dac8-7217-adfd-a34926669f71",
         "title": "ミステリーツアーに行く",
@@ -29,15 +38,6 @@
         "category": "IRL",
         "url": "https://kick.com/hidonna/videos/01a1f998-8608-75ff-9f8d-6acff6d4916c",
         "thumbnail": "https://web.kick.com/api/v1/videos/01a1f998-8608-75ff-9f8d-6acff6d4916c/thumbnails/9134000.jpeg?cwt=0oRDoQEmoQRYGnRodW1ibmFpbC1jYXQtcHJvZHVjdGlvbi0xWImlAWhraWNrLnZvZANna2ljay5ndwYaawCwWBkBOKMBoQBsd2ViLmtpY2suY29tBaEAeD4vYXBpL3YxL3ZpZGVvcy8wMWExZjk5OC04NjA4LTc1ZmYtOWY4ZC02YWNmZjZkNDkxNmMvdGh1bWJuYWlscwahAGw5MTM0MDAwLmpwZWcZATmBY0dFVFhAAmeRKHdXt0WorbzSRMTji1f5GGg3X13E1JdjECtTutXa9RcmbebOxv2w5ShBSNeJ1DnblUqYL1UDZwZPRZyroA"
-      },
-      {
-        "id": "01a1f46d-fbb8-7fcc-b6e2-d67918c8003a",
-        "title": "とあるキッカーズのメンバーと会うので見てて",
-        "date": "2026-11-20",
-        "duration": "5:24:23",
-        "category": "IRL",
-        "url": "https://kick.com/hidonna/videos/01a1f46d-fbb8-7fcc-b6e2-d67918c8003a",
-        "thumbnail": "https://web.kick.com/api/v1/videos/01a1f46d-fbb8-7fcc-b6e2-d67918c8003a/thumbnails/9731500.jpeg?cwt=0oRDoQEmoQRYGnRodW1ibmFpbC1jYXQtcHJvZHVjdGlvbi0xWImlAWhraWNrLnZvZANna2ljay5ndwYaav9ibBkBOKMBoQBsd2ViLmtpY2suY29tBaEAeD4vYXBpL3YxL3ZpZGVvcy8wMWExZjQ2ZC1mYmI4LTdmY2MtYjZlMi1kNjc5MThjODAwM2EvdGh1bWJuYWlscwahAGw5NzMxNTAwLmpwZWcZATmBY0dFVFhAItfkEGsVVFg-HrBnFN0pfMU1GHNeSzCL2SLOluPhC72yIvNOQjD0LPeYSL5gu3il5S7bY8PrV7_dZ-iSNfv6Eg"
       }
     ],
     "status_ok": true
@@ -47,7 +47,7 @@
     "title": "",
     "viewers": 0,
     "thumbnail": "",
-    "followers": 57862,
+    "followers": 57859,
     "name": "ヒドンナ@どやさ",
     "avatar": "https://img.whowatch.tv/user_files/1948697/profile_icon/1514520344865.jpeg",
     "bio": "東京都足立区在住。女装家です。",
@@ -138,7 +138,7 @@
         "image": "https://pbs.twimg.com/card_img/2121317160681455616/LCQaAm6G?format=webp&name=medium",
         "likes": 38,
         "reposts": 4,
-        "views": 4322
+        "views": 4481
       },
       {
         "id": "2123338454012666358",
@@ -146,9 +146,9 @@
         "date": "2026-11-19 17:51",
         "text": "ポケカメンくんとコラボしました🖐️\nメイクもして、さて少し仮眠して定時はツイキャスで",
         "image": "https://pbs.twimg.com/media/HXedEYOacAAnAU1.jpg?name=medium",
-        "likes": 1162,
+        "likes": 1163,
         "reposts": 69,
-        "views": 43661
+        "views": 43840
       },
       {
         "id": "2123079187661803848",
@@ -158,7 +158,7 @@
         "image": "https://pbs.twimg.com/card_img/2121317160681455616/LCQaAm6G?format=webp&name=medium",
         "likes": 28,
         "reposts": 4,
-        "views": 5503
+        "views": 5639
       }
     ],
     "status_ok": true
