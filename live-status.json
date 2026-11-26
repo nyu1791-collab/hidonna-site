@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-26 19:32:01 JST",
+  "fetched_at": "2026-11-27 04:47:28 JST",
   "kick": {
-    "is_live": false,
-    "title": "",
-    "viewers": 0,
-    "category": "",
+    "is_live": true,
+    "title": "全員潰れるまで終われません",
+    "viewers": 3802,
+    "category": "Just Chatting",
     "thumbnail": "",
-    "followers": 20946,
+    "followers": 20980,
     "username": "HIDONNA",
     "avatar": "https://files.kick.com/images/user/59386947/profile_image/conversion/181b109a-f206-408e-b58d-416da2a600b6-fullsize.webp",
     "bio": "プロフィール\n女装配信者\n配信スケジュール\nKICK: 配信開始！主に深夜から朝方にかけて配信\n配信スタイル\n複数のプラットフォームで活動中の女装配信者。KICKでは夜更かし派の視聴者に向けて深夜・早朝の時間帯に配信を展開中。",
@@ -47,7 +47,7 @@
     "title": "",
     "viewers": 0,
     "thumbnail": "",
-    "followers": 57976,
+    "followers": 58033,
     "name": "ヒドンナ@どやさ",
     "avatar": "https://img.whowatch.tv/user_files/1948697/profile_icon/1514520344865.jpeg",
     "bio": "東京都足立区在住。女装家です。",
@@ -138,7 +138,7 @@
         "image": "https://pbs.twimg.com/card_img/2121317160681455616/LCQaAm6G?format=webp&name=medium",
         "likes": 38,
         "reposts": 4,
-        "views": 4695
+        "views": 4712
       },
       {
         "id": "2123338454012666358",
@@ -148,7 +148,7 @@
         "image": "https://pbs.twimg.com/media/HXedEYOacAAnAU1.jpg?name=medium",
         "likes": 1164,
         "reposts": 69,
-        "views": 44132
+        "views": 44168
       },
       {
         "id": "2123079187661803848",
@@ -158,7 +158,7 @@
         "image": "https://pbs.twimg.com/card_img/2121317160681455616/LCQaAm6G?format=webp&name=medium",
         "likes": 28,
         "reposts": 4,
-        "views": 5819
+        "views": 5834
       }
     ],
     "status_ok": true
