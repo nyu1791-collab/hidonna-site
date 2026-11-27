@@ -1,17 +1,26 @@
 {
-  "fetched_at": "2026-11-27 04:47:28 JST",
+  "fetched_at": "2026-11-27 11:26:12 JST",
   "kick": {
-    "is_live": true,
-    "title": "全員潰れるまで終われません",
-    "viewers": 3802,
-    "category": "Just Chatting",
+    "is_live": false,
+    "title": "",
+    "viewers": 0,
+    "category": "",
     "thumbnail": "",
-    "followers": 20980,
+    "followers": 20998,
     "username": "HIDONNA",
     "avatar": "https://files.kick.com/images/user/59386947/profile_image/conversion/181b109a-f206-408e-b58d-416da2a600b6-fullsize.webp",
     "bio": "プロフィール\n女装配信者\n配信スケジュール\nKICK: 配信開始！主に深夜から朝方にかけて配信\n配信スタイル\n複数のプラットフォームで活動中の女装配信者。KICKでは夜更かし派の視聴者に向けて深夜・早朝の時間帯に配信を展開中。",
     "url": "https://kick.com/hidonna",
     "videos": [
+      {
+        "id": "01a21893-7270-7855-9533-520a1f3569ae",
+        "title": "全員潰れるまで終われません",
+        "date": "2026-11-27",
+        "duration": "4:37:47",
+        "category": "Just Chatting",
+        "url": "https://kick.com/hidonna/videos/01a21893-7270-7855-9533-520a1f3569ae",
+        "thumbnail": "https://web.kick.com/api/v1/videos/01a21893-7270-7855-9533-520a1f3569ae/thumbnails/8333500.jpeg?cwt=0oRDoQEmoQRYGnRodW1ibmFpbC1jYXQtcHJvZHVjdGlvbi0xWImlAWhraWNrLnZvZANna2ljay5ndwYaawiYYhkBOKMBoQBsd2ViLmtpY2suY29tBaEAeD4vYXBpL3YxL3ZpZGVvcy8wMWEyMTg5My03MjcwLTc4NTUtOTUzMy01MjBhMWYzNTY5YWUvdGh1bWJuYWlscwahAGw4MzMzNTAwLmpwZWcZATmBY0dFVFhAjF48JGNJiQWDfkZY_9rPqwExximgNZgFAcwV2AIGn6SJLoBqRpknwwm_FP004pGsZND7SCPYtYS3DtydWXIomw"
+      },
       {
         "id": "01a20e36-3bc8-73c5-9882-9bbfe5fb2d7a",
         "title": "寒中水泳をやる",
@@ -29,15 +38,6 @@
         "category": "IRL",
         "url": "https://kick.com/hidonna/videos/01a2094d-0bf0-713c-b6a4-2e73b5a5b7f1",
         "thumbnail": "https://web.kick.com/api/v1/videos/01a2094d-0bf0-713c-b6a4-2e73b5a5b7f1/thumbnails/8268000.jpeg?cwt=0oRDoQEmoQRYGnRodW1ibmFpbC1jYXQtcHJvZHVjdGlvbi0xWImlAWhraWNrLnZvZANna2ljay5ndwYaawSu0BkBOKMBoQBsd2ViLmtpY2suY29tBaEAeD4vYXBpL3YxL3ZpZGVvcy8wMWEyMDk0ZC0wYmYwLTcxM2MtYjZhNC0yZTczYjVhNWI3ZjEvdGh1bWJuYWlscwahAGw4MjY4MDAwLmpwZWcZATmBY0dFVFhAw3-diOqUZN7yYMD3GLTS-jxaUbWQ3YdTQfOWAApb2c9on84H4eFt-hK_JYGbdBaKV-ZXQUHVmXsImVClmnf-Hw"
-      },
-      {
-        "id": "01a1fe3d-dac8-7217-adfd-a34926669f71",
-        "title": "ミステリーツアーに行く",
-        "date": "2026-11-21",
-        "duration": "6:57:44",
-        "category": "IRL",
-        "url": "https://kick.com/hidonna/videos/01a1fe3d-dac8-7217-adfd-a34926669f71",
-        "thumbnail": "https://web.kick.com/api/v1/videos/01a1fe3d-dac8-7217-adfd-a34926669f71/thumbnails/12532000.jpeg?cwt=0oRDoQEmoQRYGnRodW1ibmFpbC1jYXQtcHJvZHVjdGlvbi0xWIqlAWhraWNrLnZvZANna2ljay5ndwYaawH7WBkBOKMBoQBsd2ViLmtpY2suY29tBaEAeD4vYXBpL3YxL3ZpZGVvcy8wMWExZmUzZC1kYWM4LTcyMTctYWRmZC1hMzQ5MjY2NjlmNzEvdGh1bWJuYWlscwahAG0xMjUzMjAwMC5qcGVnGQE5gWNHRVRYQP-RlRDKPFMz8A6F4KkSmM_psLPxTeglikM99w1t5q-AJNXg2KSrvCfcgvVzNUm3ZH83rA4PcXuAKLJD7wkfV3c"
       }
     ],
     "status_ok": true
@@ -47,7 +47,7 @@
     "title": "",
     "viewers": 0,
     "thumbnail": "",
-    "followers": 58033,
+    "followers": 58032,
     "name": "ヒドンナ@どやさ",
     "avatar": "https://img.whowatch.tv/user_files/1948697/profile_icon/1514520344865.jpeg",
     "bio": "東京都足立区在住。女装家です。",
@@ -138,7 +138,7 @@
         "image": "https://pbs.twimg.com/card_img/2121317160681455616/LCQaAm6G?format=webp&name=medium",
         "likes": 38,
         "reposts": 4,
-        "views": 4712
+        "views": 4723
       },
       {
         "id": "2123338454012666358",
@@ -148,7 +148,7 @@
         "image": "https://pbs.twimg.com/media/HXedEYOacAAnAU1.jpg?name=medium",
         "likes": 1164,
         "reposts": 69,
-        "views": 44168
+        "views": 44188
       },
       {
         "id": "2123079187661803848",
@@ -158,7 +158,7 @@
         "image": "https://pbs.twimg.com/card_img/2121317160681455616/LCQaAm6G?format=webp&name=medium",
         "likes": 28,
         "reposts": 4,
-        "views": 5834
+        "views": 5846
       }
     ],
     "status_ok": true
