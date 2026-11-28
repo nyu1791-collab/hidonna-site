@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-28 11:30:29 JST",
+  "fetched_at": "2026-11-28 19:48:15 JST",
   "kick": {
     "is_live": false,
     "title": "",
     "viewers": 0,
     "category": "",
     "thumbnail": "",
-    "followers": 21092,
+    "followers": 21093,
     "username": "HIDONNA",
     "avatar": "https://files.kick.com/images/user/59386947/profile_image/conversion/181b109a-f206-408e-b58d-416da2a600b6-fullsize.webp",
     "bio": "プロフィール\n女装配信者\n配信スケジュール\nKICK: 配信開始！主に深夜から朝方にかけて配信\n配信スタイル\n複数のプラットフォームで活動中の女装配信者。KICKでは夜更かし派の視聴者に向けて深夜・早朝の時間帯に配信を展開中。",
@@ -47,7 +47,7 @@
     "title": "",
     "viewers": 0,
     "thumbnail": "",
-    "followers": 58080,
+    "followers": 58082,
     "name": "ヒドンナ@どやさ",
     "avatar": "https://img.whowatch.tv/user_files/1948697/profile_icon/1514520344865.jpeg",
     "bio": "東京都足立区在住。女装家です。",
@@ -138,7 +138,7 @@
         "image": "https://pbs.twimg.com/card_img/2121317160681455616/LCQaAm6G?format=webp&name=medium",
         "likes": 38,
         "reposts": 4,
-        "views": 4811
+        "views": 4827
       },
       {
         "id": "2123338454012666358",
@@ -146,9 +146,9 @@
         "date": "2026-11-19 17:51",
         "text": "ポケカメンくんとコラボしました🖐️\nメイクもして、さて少し仮眠して定時はツイキャスで",
         "image": "https://pbs.twimg.com/media/HXedEYOacAAnAU1.jpg?name=medium",
-        "likes": 1164,
+        "likes": 1165,
         "reposts": 69,
-        "views": 44293
+        "views": 44319
       },
       {
         "id": "2123079187661803848",
@@ -158,7 +158,7 @@
         "image": "https://pbs.twimg.com/card_img/2121317160681455616/LCQaAm6G?format=webp&name=medium",
         "likes": 28,
         "reposts": 4,
-        "views": 5926
+        "views": 5940
       }
     ],
     "status_ok": true
@@ -167,6 +167,13 @@
     "channel_name": "ヒドンナちゃんねる",
     "channel_url": "https://www.youtube.com/channel/UCzc8gfCm5pMSkyj9bqHKieQ",
     "videos": [
+      {
+        "id": "7q-eR-x65q0",
+        "title": "【心霊配信】パ二ちゃんと深夜の心霊スポットで大パニック！？",
+        "published": "2026-11-28",
+        "url": "https://www.youtube.com/watch?v=7q-eR-x65q0",
+        "thumbnail": "https://i.ytimg.com/vi/7q-eR-x65q0/hqdefault.jpg"
+      },
       {
         "id": "uC5mbL5b3ZQ",
         "title": "【神回コラボ】 ポケくんと初デート！ガチメイクであの大物女優に変身？！ そして、料理の共同作業..！？",
@@ -180,13 +187,6 @@
         "published": "2026-07-09",
         "url": "https://www.youtube.com/watch?v=I7eLLRDpNFc",
         "thumbnail": "https://i.ytimg.com/vi/I7eLLRDpNFc/hqdefault.jpg"
-      },
-      {
-        "id": "7QR5TZdWfRQ",
-        "title": "エグプリフェス2026",
-        "published": "2026-06-21",
-        "url": "https://www.youtube.com/watch?v=7QR5TZdWfRQ",
-        "thumbnail": "https://i.ytimg.com/vi/7QR5TZdWfRQ/hqdefault.jpg"
       }
     ],
     "status_ok": true
